@@ -1,2 +1,3 @@
 # R_lang
-All about R programming language. I used https://rextester.com/ an online editor for R.
+- Statistical Machine Learning, coding with R lang.
+-Statistical Learning Maths and R. (Thanks to Professor Joe Suzuki for recommending this books)
